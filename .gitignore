@@ -6,3 +6,6 @@ bower_components
 
 # npm
 node_modules
+
+# Error logs
+*.log
