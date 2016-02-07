@@ -1,0 +1,27 @@
+{
+  "name": "basic_frontend",
+  "description": "Holds Sass files of custom bootstrap elements and added short codes.",
+  "main": "dist/main.css",
+  "authors": [
+    "Karan Sharma"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "sass",
+    "bootstrap",
+    "OOU"
+  ],
+  "homepage": "https://github.com/OnlineOpenUniversity/Basic-frontend",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "2.2.0"
+  }
+}
